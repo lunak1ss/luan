@@ -136,3 +136,6 @@ Desktop.ini
 # Misc
 .coze-logs
 .codegraph/
+
+# Local Netlify folder
+.netlify

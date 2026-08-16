@@ -53,22 +53,6 @@ output.log
 *.log.*
 logs/
 
-# 视频文件
-*.mp4
-*.avi
-*.mov
-*.wmv
-*.flv
-*.mkv
-*.webm
-*.m4v
-*.mpeg
-*.mpg
-*.3gp
-*.f4v
-*.rmvb
-*.vob
-
 # 归档文件
 *.iso
 *.dmg

@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+.venv/
+
+# ===== 部署/构建产物（无需上传 GitHub / Streamlit Cloud） =====
+dist/
+build/
+
+# ===== 运行时数据（云端自动生成，勿提交） =====
+data/
+outputs/
+storage/
+logs/
+samples/
+
+# ===== 密钥与本地配置 =====
+.env
+.env.local
+
+# ===== 本地测试/工具（体积大不建议提交） =====
+work/
+
+# ===== 系统与编辑器 =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
